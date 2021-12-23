@@ -1,6 +1,6 @@
 {
   "name": "vue3-styled-components-storybook-addon",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Switching betweed styled components themes",
   "keywords": [
     "storybook-addons",
